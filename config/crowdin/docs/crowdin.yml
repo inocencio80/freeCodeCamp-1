@@ -14,6 +14,12 @@ files: [
     "/docs/_navbar.md",
     "/docs/_translations.md",
     "/docs/README.md",
-  ]
+  ],
+  "languages_mapping": {
+    "two_letters_code": {
+      "zh-CN" : "chinese",
+      "es-MS" : "espanol"
+    }
+  }
  }
 ]
